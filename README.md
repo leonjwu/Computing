@@ -1,8 +1,9 @@
 # Computing Projects
 
 ## Credibility: Some projects below were part of Year 3 Imperial College Mathematics High-Performance Computing Module, in which I ranked 1st in the year
+
 ---
-# [Project 1: Simulating Bacteria Dynamics in Python and Parallel Fortran](https://github.com/leonwu4951/Computing/blob/master/Bacteria/)
+# [Project 1: Simulating Bacteria Interaction Dynamics in Python and Parallel Fortran](https://github.com/leonwu4951/Computing/blob/master/Bacteria/)
 
 ## Overview
 - Developed vectorised Python code using NumPy and SciPy for bacteria simulations
@@ -15,5 +16,21 @@ Parallel Fortran Speedup  |  Speedup Python vs Fortran
 ---
 
 
+
+---
+# [Project 2: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Osicalltors on a network](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/)
+
+## Overview
+- Simulated blood flow through a deformed artery
+- Implemented finite difference methods in Python
+- Designed fast sparse matrix solvers in parallel Fortran code (OMP) to speedup the bottleneck in the finite-difference schemes by 100x
+- Simulated Weakly-Coupled Osicalltors on a network using 1D and 2D decompositions for MPI parallel Computing in Fortran.
+- Setup communication effectively between multiple processes on a grid using appropriate MPI directives
+ 
+
+Fortran vs Python Speedup  |  Number of Threads Speedup
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/threads.png)
+---
 
 
