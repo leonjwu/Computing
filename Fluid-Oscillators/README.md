@@ -15,10 +15,10 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 ---
-Relevant Code:
-### [Sparse Matrix Solvers in Fortran](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#sparse-matrix-solvers-in-fortran)
-### [MPI Fortran implementation for Osciallators](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#mpi-fortran-implementation-for-osciallators)
-### [Finite Difference Scheme in Python using Fortran Solvers](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#finite-difference-scheme-in-python-using-fortran-solvers)
+Relevant Code is below:
+### Sparse Matrix Solvers in Fortran
+### MPI Fortran implementation for Osciallators
+### Finite Difference Scheme in Python using Fortran Solvers
 ---
 
 

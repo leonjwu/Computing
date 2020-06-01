@@ -11,8 +11,14 @@ Parallel Fortran Speedup  |  Speedup Python vs Fortran
 ![](https://github.com/leonwu4951/Computing/blob/master/Bacteria/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Bacteria/speedup2.png)
 ---
 
+---
+Relevant Code is below:
+### Python Bacteria Simulation
+### Fortran Bacteria Simulation
+---
 
-## Python Simulation: (Fortran Code Below)
+
+## Python Bacteria Simulation
 
 ```python
 import numpy as np
@@ -305,7 +311,7 @@ if __name__ == '__main__':
 ```
 
 
-## Fortran Simulation:
+## Fortran Bacteria Simulation:
 
 ```fortran
 !This module contains four module variables and two subroutines;
