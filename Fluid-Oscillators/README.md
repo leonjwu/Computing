@@ -1,4 +1,4 @@
-# Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Osicalltors on a network
+# Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillators on a network
 
 ---
 ## Overview

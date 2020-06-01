@@ -4,14 +4,15 @@
 
 
 ---
-# [Project 1: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Osicalltors on a network (Parallel Fortran (OMP and MPI)](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/)
+# [Project 1: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/)
 
 ## Overview
 - Simulated blood flow through a deformed artery
-- Implemented finite difference methods in Python
 - Designed fast sparse matrix solvers in parallel Fortran code (OMP) to speedup the bottleneck in the finite-difference schemes by 100x
 - Simulated Weakly-Coupled Osicalltors on a network using 1D and 2D decompositions for MPI parallel Computing in Fortran.
 - Setup communication effectively between multiple processes on a grid using appropriate MPI directives
+- Implemented finite difference methods in Python
+
  
 
 Fortran vs Python Speedup  |  Number of Threads Speedup
