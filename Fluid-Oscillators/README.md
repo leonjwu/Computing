@@ -3,16 +3,26 @@
 ---
 ## Overview
 - Simulated blood flow through a deformed artery
-- Implemented finite difference methods in Python
 - Designed fast sparse matrix solvers in parallel Fortran code (OMP) to speedup the bottleneck in the finite-difference schemes by 100x
 - Simulated Weakly-Coupled Osicalltors on a network using 1D and 2D decompositions for MPI parallel Computing in Fortran.
 - Setup communication effectively between multiple processes on a grid using appropriate MPI directives
+- Implemented finite difference methods in Python
  
 
 Fortran vs Python Speedup  |  Number of Threads Speedup
 :-------------------------:|:-------------------------:
 ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/threads.png)
 ---
+
+---
+Relevant Code:
+### [Sparse Matrix Solvers in Fortran](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#sparse-matrix-solvers-in-fortran)
+### [MPI Fortran implementation for Osciallators](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#mpi-fortran-implementation-for-osciallators)
+### [Finite Difference Scheme in Python using Fortran Solvers](https://github.com/leonwu4951/Computing/tree/master/Fluid-Oscillators#finite-difference-scheme-in-python-using-fortran-solvers)
+---
+
+
+
 
 # Sparse Matrix Solvers in Fortran:
 ```fortran
