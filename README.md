@@ -1,6 +1,6 @@
 # Computing Projects
 
-## Credibility: Some projects below were part of Year 3 Imperial College Mathematics High-Performance Computing Module, in which I ranked 1st in the year
+## Credibility: Some projects below were submitted as part of the Year 3 Imperial College Mathematics High-Performance Computing Module, in which I ranked 1st in the year
 
 
 ---
