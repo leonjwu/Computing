@@ -402,8 +402,9 @@ end module flow
 </details>
 
 
-<details><summary>**MPI Fortran Implementation for Osciallators**</summary>
+<details><summary><big><big><big><b>MPI Fortran Implementation for Osciallators</b></big></big></big></summary>
 <p>
+
 ```fortran
 !This file contains 1 module, 1 main program and 4 subroutines:
 ! params: module contain problem parameters and useful constants
@@ -762,8 +763,9 @@ END subroutine random_normal
 </p>
 </details>
 
-<details><summary>**Finite Difference Scheme in Python using Fortran Solvers**</summary>
+<details><summary><big><big><big><b>Finite Difference Scheme in Python using Fortran Solvers</b></big></big></big></summary>
 <p>
+	
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
