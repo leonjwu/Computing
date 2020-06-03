@@ -15,16 +15,11 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 ---
-Relevant Code is below:
-### Sparse Matrix Solvers in Fortran
-### MPI Fortran implementation for Osciallators
-### Finite Difference Scheme in Python using Fortran Solvers
----
+## Relevant Code Snippets (Click Below to Expand)
 
+<details><summary>**Customised Sparse Matrix Solvers in Fortran**</summary>
+<p>
 
-
-
-# Sparse Matrix Solvers in Fortran:
 ```fortran
 !Module for flow simulations of liquid through tube
 !This module contains a few module variables (see comments below)
@@ -403,10 +398,11 @@ end subroutine mtvec_omp
 end module flow
 ```
 
+</p>
+</details>
 
-
-
-# MPI Fortran implementation for Osciallators:
+<details><summary>**MPI Fortran Implementation for Osciallators**</summary>
+<p>
 ```fortran
 !This file contains 1 module, 1 main program and 4 subroutines:
 ! params: module contain problem parameters and useful constants
@@ -762,10 +758,11 @@ RETURN
 
 END subroutine random_normal
 ```
+</p>
+</details>
 
-
-
-# Finite Difference Scheme in Python using Fortran Solvers:
+<details><summary>**Finite Difference Scheme in Python using Fortran Solvers**</summary>
+<p>
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -844,3 +841,6 @@ if __name__=='__main__':
     #performance()
 
 ```
+</p>
+</details>
+
