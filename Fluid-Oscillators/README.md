@@ -847,3 +847,7 @@ if __name__=='__main__':
 </p>
 </details>
 
+Error vs Iterations (Jacobi, SGI)  |  Error vs Iterations (Jacobi, SGI)
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/fig0.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/fig6.png)
+---
