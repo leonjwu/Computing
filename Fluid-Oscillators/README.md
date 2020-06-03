@@ -17,7 +17,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 ## Relevant Code Snippets (Click Below to Expand)
 
-<details><summary><h3><b>Customised Sparse Matrix Solvers in Fortran</b></h3></summary>
+<details><summary><big><b>Customised Sparse Matrix Solvers in Fortran</b></big></summary>
 <p>
 
 ```fortran
