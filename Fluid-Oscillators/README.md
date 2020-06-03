@@ -17,7 +17,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 ## Relevant Code Snippets (Click Below to Expand)
 
-<h2><details><summary><b>Customised Sparse Matrix Solvers in Fortran<b></summary>
+<details><h2><summary><b>Customised Sparse Matrix Solvers in Fortran<b></summary><h2>
 <p>
 
 ```fortran
@@ -400,7 +400,7 @@ end module flow
 
 </p>
 </details>
-<h2>
+
 
 <details><summary>**MPI Fortran Implementation for Osciallators**</summary>
 <p>
