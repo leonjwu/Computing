@@ -142,6 +142,7 @@ if __name__=='__main__':
 ```
 </p>
 </details>
+
 ---
 
 - Optimised code for repairing images through vectorisation
