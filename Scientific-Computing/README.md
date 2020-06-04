@@ -1,6 +1,7 @@
 # [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/)
 
 ---
+---
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
 
 Original Image |  Reduced Image, using 5% of original memory
@@ -144,6 +145,7 @@ if __name__=='__main__':
 </details>
 
 ---
+---
 
 - Optimised code for repairing images through vectorisation
 - Reformulated matrix computations for most efficient use of Python vectorisation
@@ -227,6 +229,7 @@ if __name__ == "__main__":
 </p>
 </details>
 
+---
 ---
 
 - Simulated Chaotic Bacteria Interactions through PDEs and Finite Differences
@@ -389,6 +392,7 @@ if __name__=='__main__':
 </p>
 </details>
 
+---
 ---
 
 - Designed fast path-finding algorithms utilising dequeues, hash tables and binary heaps
