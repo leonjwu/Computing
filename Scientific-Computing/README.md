@@ -9,6 +9,7 @@ Original Image |  Reduced Image, using 5% of original memory
 
 <details><summary><big><big><big><b>Click to view code</b></big></big></big></summary>
 <p>
+    
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -152,7 +153,9 @@ Broken Image  |  Repaired Image
 
 <details><summary><big><big><big><b>Click to view code</b></big></big></big></summary>
 <p>
+    
 ```python
+    
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -233,6 +236,7 @@ Chaos Contours  |  Finite-Difference Scheme Errors
 
 <details><summary><big><big><big><b>Click to view code</b></big></big></big></summary>
 <p>
+    
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -389,6 +393,7 @@ if __name__=='__main__':
 
 <details><summary><big><big><big><b>Click to view code</b></big></big></big></summary>
 <p>
+    
 ```python
 from collections import deque
 
