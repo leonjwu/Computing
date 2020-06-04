@@ -225,6 +225,7 @@ if __name__ == "__main__":
 ```
 </p>
 </details>
+
 ---
 
 - Simulated Chaotic Bacteria Interactions through PDEs and Finite Differences
@@ -386,6 +387,7 @@ if __name__=='__main__':
 ```
 </p>
 </details>
+
 ---
 
 - Designed fast path-finding algorithms utilising dequeues, hash tables and binary heaps
@@ -686,6 +688,7 @@ def cheapCycling(SList,CList):
 
 if __name__=='__main__':
     pass
+    
 ```
 </p>
 </details>
