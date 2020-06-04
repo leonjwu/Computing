@@ -21,33 +21,24 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 
-# [Project 2: Scientific Computing: Multidimensional SVD, Linear Spreading Operators on Networks, Path-Finding Algorithms and Chaotic Systems (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
+# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
 
 ## Overview
-- 
-- Reduced dataset storage by 95% designing multidimensional SVD techniques
+- Designed multidimensional SVD techniques to reduced dataset storage by 95%
+- Optimised code for repairing images through vectorisation
+- Reformulated matrix computations for most efficient use of Python vectorisation
+- Simulated Chaotic Bacteria Interactions through PDEs and Finite Differences
+- Implemented banded matrix solvers using SciPy to massively speed up simulations 
+- Designed fast path-finding algorithms utilising dequeues, hash tables and binary heaps
+- Modified BFS, DFS and Dijkstra algorithms for specific path-finding problems
 
 
- 
 
-YYY  |  YYY
+Chaotic System Contours  |  Repaired Image
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/speedup.pnga)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/threads.pnga)
+![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Chaos.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Repaired_Image.png)
 ---
 
 ---
-# [Project 3: Simulating Bacteria Interaction Dynamics in Python and Parallel Fortran (OMP)](https://github.com/leonwu4951/Computing/blob/master/Bacteria/)
-
-## Overview
-- Developed vectorised Python code using NumPy and SciPy for bacteria simulations
-- Analysed dynamics of the simulations with various plots
-- Developed parallel Fortran code using OMP for the simulations, resulting in a 100x speedup over the vectorised Python code through better memory management and parallelisation
-
-Parallel Fortran Speedup  |  Speedup Python vs Fortran 
-:-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Bacteria/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Bacteria/speedup2.png)
----
-
-
 
 
