@@ -21,7 +21,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 
-# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
+# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/)
 
 ## Overview
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
