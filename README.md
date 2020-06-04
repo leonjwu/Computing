@@ -21,7 +21,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 
-# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/)
+# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
 
 ## Overview
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
@@ -38,6 +38,21 @@ Chaotic System Contours  |  Repaired Image
 :-------------------------:|:-------------------------:
 ![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Chaos.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Repaired_Image.png)
 ---
+
+
+# [Project 3: Computational PDEs: 1D and 2D Wave Equations](https://leonwu4951.github.io/comp-pdes/)
+
+## Overview
+- Implemented finite difference schemes for 1D and 2D Wave Equations
+- Designed boundary conditions to allow for reflecting and non-reflecting boundaries
+- Created visualisations of 1D and 2D waves using Matplotlib Animations
+
+
+2D Wave Solutions  |  2D Wave Solutions
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/comp-pdes/blob/master/2d1c2.png)  |  ![](https://github.com/leonwu4951/comp-pdes/blob/master/2d2c4.png)
+---
+
 
 ---
 
