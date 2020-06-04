@@ -407,7 +407,7 @@ end module flow
 </details>
 
 
-<details><summary><big><big><big><b>MPI Fortran Implementation for Osciallators</b></big></big></big></summary>
+<details><summary><big><big><big><b>MPI Fortran Implementation for Oscillators</b></big></big></big></summary>
 <p>
 
 ```fortran
