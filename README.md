@@ -21,7 +21,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 
-# [Project 2: Image Repair Algorithm, Linear Spreading Operators on Networks, Multidimensional SVD and Chaotic Systems (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
+# [Project 2: Scientific Computing: Multidimensional SVD, Linear Spreading Operators on Networks, Path-Finding Algorithms and Chaotic Systems (Python)](https://github.com/leonwu4951/Computing/blob/master/SVD-Chaos/)
 
 ## Overview
 - 
