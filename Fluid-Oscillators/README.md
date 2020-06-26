@@ -4,7 +4,7 @@
 ## Overview
 - Simulated blood flow through a deformed artery
 - Designed fast sparse matrix solvers in parallel Fortran code (OMP) to speedup the bottleneck in the finite-difference schemes by 100x
-- Simulated Weakly-Coupled Osicalltors on a network using 1D and 2D decompositions for MPI parallel Computing in Fortran.
+- Simulated Weakly-Coupled Oscillators on a network using 1D and 2D decompositions for MPI parallel Computing in Fortran.
 - Setup communication effectively between multiple processes on a grid using appropriate MPI directives
 - Implemented finite difference methods in Python
  
