@@ -21,7 +21,25 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 ---
 
 
-# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/)
+
+
+# [Project 2: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
+
+## Overview
+- Implemented finite difference schemes for 1D and 2D Wave Equations
+- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
+- Created visualisations of 1D and 2D waves using Matplotlib Animations
+
+
+2D Wave Simulations  |  1D Wave Simulations
+:-------------------------:|:-------------------------:
+![](https://github.com/leonjwu/comp-pdes/blob/master/2d.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/1d.png)
+---
+
+
+
+
+# [Project 3: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/)
 
 ## Overview
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
@@ -40,18 +58,6 @@ Chaotic System Contours  |  Repaired Image
 ---
 
 
-# [Project 3: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
-
-## Overview
-- Implemented finite difference schemes for 1D and 2D Wave Equations
-- Designed boundary conditions to allow for reflecting and non-reflecting boundaries
-- Created visualisations of 1D and 2D waves using Matplotlib Animations
-
-
-2D Wave Solutions  |  2D Wave Solutions
-:-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/comp-pdes/blob/master/2d1c2.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2d2c4.png)
----
 
 
 ---
