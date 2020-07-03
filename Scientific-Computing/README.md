@@ -6,7 +6,7 @@
 
 Original Image |  Reduced Image, using 5% of original memory
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Full_Image.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Reduced_Image.png)
+![](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/Full_Image.png)  |  ![](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/Reduced_Image.png)
 
 <details><summary><big><big><big><b>Click to view code</b></big></big></big></summary>
 <p>
