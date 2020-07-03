@@ -4,7 +4,7 @@
 
 
 ---
-# [Project 1: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/)
+# [Project 1: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/)
 
 ## Overview
 - Simulated blood flow through a deformed artery
@@ -17,11 +17,11 @@
 
 Fortran vs Python Speedup  |  Number of Threads Speedup
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/threads.png)
+![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/threads.png)
 ---
 
 
-# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/)
+# [Project 2: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/)
 
 ## Overview
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
@@ -36,11 +36,11 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 
 Chaotic System Contours  |  Repaired Image
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Chaos.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Scientific-Computing/Repaired_Image.png)
+![](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/Chaos.png)  |  ![](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/Repaired_Image.png)
 ---
 
 
-# [Project 3: Computational PDEs: 1D and 2D Wave Equations](https://leonwu4951.github.io/comp-pdes/)
+# [Project 3: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
 
 ## Overview
 - Implemented finite difference schemes for 1D and 2D Wave Equations
@@ -50,7 +50,7 @@ Chaotic System Contours  |  Repaired Image
 
 2D Wave Solutions  |  2D Wave Solutions
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/comp-pdes/blob/master/2d1c2.png)  |  ![](https://github.com/leonwu4951/comp-pdes/blob/master/2d2c4.png)
+![](https://github.com/leonjwu/comp-pdes/blob/master/2d1c2.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2d2c4.png)
 ---
 
 
