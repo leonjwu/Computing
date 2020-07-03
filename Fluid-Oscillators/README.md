@@ -11,12 +11,12 @@
 
 Fortran vs Python Speedup  |  Number of Threads Speedup
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/threads.png)
+![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/speedup.png)  |  ![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/threads.png)
 ---
 
 Error vs Iterations (Jacobi, SGI)  |  Error vs Iterations (Jacobi, SGI)
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/fig0.png)  |  ![](https://github.com/leonwu4951/Computing/blob/master/Fluid-Oscillators/fig6.png)
+![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/fig0.png)  |  ![](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/fig6.png)
 ---
 
 ---
