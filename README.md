@@ -3,8 +3,24 @@
 ## Credibility: Some projects below were submitted as part of the Year 3 Imperial College Mathematics High-Performance Computing Module, in which I ranked 1st in the year
 
 
+
+# [Project 1: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
+
+## Overview
+- Implemented finite difference schemes for 1D and 2D Wave Equations
+- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
+- Created visualisations of 1D and 2D waves using Matplotlib Animations
+
+
+2D Wave Simulations  |  1D Wave Simulations
+:-------------------------:|:-------------------------:
+![](https://github.com/leonjwu/comp-pdes/blob/master/2d.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/1d.png)
 ---
-# [Project 1: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/)
+
+
+
+---
+# [Project 2: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/)
 
 ## Overview
 - Simulated blood flow through a deformed artery
@@ -23,18 +39,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 
 
 
-# [Project 2: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
 
-## Overview
-- Implemented finite difference schemes for 1D and 2D Wave Equations
-- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
-- Created visualisations of 1D and 2D waves using Matplotlib Animations
-
-
-2D Wave Simulations  |  1D Wave Simulations
-:-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/comp-pdes/blob/master/2d.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/1d.png)
----
 
 
 
