@@ -14,7 +14,7 @@
 
 2D Wave Simulations  |  1D Wave Simulations
 :-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/comp-pdes/blob/master/2d.png)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/1d.png)
+![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symmetric_Multi)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/1d.png)
 ---
 
 
