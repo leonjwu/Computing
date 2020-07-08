@@ -14,7 +14,7 @@
 
 2D Wave - Single  |  2D Wave - Multi
 :-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symetric_Single.gif)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symetric_Multi.gif)
+![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symetric_Single.gif)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symmetric_Multi.gif)
 ---
 
 
