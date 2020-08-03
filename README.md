@@ -1,9 +1,5 @@
 # Computing Projects
 
-## Credibility: Some projects below were submitted as part of the Year 3 Imperial College Mathematics High-Performance Computing Module, in which I ranked 1st in the year
-
-
-
 # [Project 1: Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
 
 ## Overview
