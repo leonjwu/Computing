@@ -15,8 +15,25 @@
 
 
 
+
 ---
-# [Project 2: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/)
+# [Project 2: Volatility Surface Simulator](https://leonjwu.github.io/volatility-simulator/)
+
+## Overview
+- Created a webapp for options trading and pricing, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades
+- Using the tool, you can view proprietary implied volatility surface marks generated from my own model, and explore live or historical volatility surfaces in 2D or 3D through simulation
+- Also built a volatility surface simulator - an internal backtesting tool to backtest and benchmark my own improvements to the production volatilty model
+
+ 
+2D Volatility Surface  |  3D Volatility Surface
+:-------------------------:|:-------------------------:
+![](https://github.com/leonjwu/volatility-simulator/blob/master/2D.png)  |  ![](https://github.com/leonjwu/volatility-simulator/blob/master/3D.png)
+---
+
+
+
+---
+# [Project 3: Simulating Fluid Flow PDEs with Finite Differences and Simulating Weakly-Coupled Oscillattors on a network (Parallel Fortran (OMP and MPI))](https://github.com/leonjwu/Computing/blob/master/Fluid-Oscillators/)
 
 ## Overview
 - Simulated blood flow through a deformed artery
@@ -40,7 +57,7 @@ Fortran vs Python Speedup  |  Number of Threads Speedup
 
 
 
-# [Project 3: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/)
+# [Project 4: Scientific Computing: Multidimensional SVD, Image Repair Algorithm, Chaotic Systems and Path-Finding Algorithms (Python)](https://github.com/leonjwu/Computing/blob/master/Scientific-Computing/)
 
 ## Overview
 - Designed multidimensional SVD techniques to reduced dataset storage by 95%
@@ -61,19 +78,7 @@ Chaotic System Contours  |  Repaired Image
 
 
 
----
-# [Project 4: Volatility Surface Simulator](https://leonjwu.github.io/volatility-simulator/)
 
-## Overview
-- Created a webapp for options trading and pricing, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades
-- Using the tool, you can view proprietary implied volatility surface marks generated from my own model, and explore live or historical volatility surfaces in 2D or 3D through simulation
-- Also built a volatility surface simulator - an internal backtesting tool to backtest and benchmark my own improvements to the production volatilty model
-
- 
-2D Volatility Surface  |  3D Volatility Surface
-:-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/volatility-simulator/blob/master/2D.png)  |  ![](https://github.com/leonjwu/volatility-simulator/blob/master/3D.png)
----
 
 
 
